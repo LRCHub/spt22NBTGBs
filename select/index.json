@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "自白",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-02-14T13:33:09.531065Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "自白",
+      "artist": "鐵樹蘭",
+      "has_synced": false,
+      "path": "select/01_自白_鐵樹蘭.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "自白",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/02_自白_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自白",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_自白_CLAN_QUEEN.txt"
+    }
+  ]
+}
